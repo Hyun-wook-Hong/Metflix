@@ -1,2 +1,3 @@
-# Metflix
-Movie App 실습 내용 deploy (created on 4/28)
+# Movie App 2021 - React.JS 실습
+
+React JS Fundamentals Course (2021 Update!!)
