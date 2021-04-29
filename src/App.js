@@ -1,9 +1,10 @@
 import React from 'react';
 import Movie from './Movie';
 import axios from 'axios';
+import "./App.css"
 import { waitForDomChange } from '@testing-library/dom';
 
-// class 컴포넌트
+// className 컴포넌트
 // return이 없다. 대신 render method를 갖고있다
 
 // state: 여러 데이터를 갖고있는 object형 자료
@@ -39,9 +40,15 @@ class App extends React.Component{
   render(){
     const { isLoading, movies } = this.state;
     return (
-          <div> 
-            { this.state.isLoading ? "Loading..." 
-                                   : movies.map( movie =>(
+          <section className="container"> 
+            { this.state.isLoading ? (
+            <div className="loader">
+              <span className="loader__text">Now Loading...</span>
+            </div>
+            ) : (
+              <div className="movies">
+  
+            { movies.map( movie =>(
                   <Movie 
                     key={movie.id}
                     id={movie.id} 
@@ -49,11 +56,13 @@ class App extends React.Component{
                     title={movie.title} 
                     summary={movie.summary} 
                     poster={movie.medium_cover_image} 
+                    genres={movie.genres}
                   />
-
-            ))}
-          </div>
-          )
+              ))}
+            </div>
+            )}
+          </section>
+          );
   }
 }
 
