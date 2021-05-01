@@ -9,3 +9,11 @@ body{
     background-color: #eff3f7;
     height: 100%;
 }
+
+a{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-decoration: none;
+    color: inherit;
+}
