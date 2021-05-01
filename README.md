@@ -10,3 +10,6 @@ React JS Fundamentals Course (2021 Update!!)
 > "homepage" : "https://Hyun-wook-Hong.github.io/Metflix"  
 > "deploy": "gh-pages -d build", → build 폴더를 깃헙 클라우드에 upload  
 > "predeploy": "npm run build"  → build 폴더 생성  
+   
+# To-Do list
+- Movie 컨텐츠 클릭 시 Card contents 생성하기 - created on 5/1
