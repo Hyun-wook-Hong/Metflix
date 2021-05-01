@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Metflix/static/css/main.22002109.chunk.css",
-    "main.js": "/Metflix/static/js/main.d3d47dc6.chunk.js",
-    "main.js.map": "/Metflix/static/js/main.d3d47dc6.chunk.js.map",
+    "main.css": "/Metflix/static/css/main.bca31fcb.chunk.css",
+    "main.js": "/Metflix/static/js/main.48ab9b2f.chunk.js",
+    "main.js.map": "/Metflix/static/js/main.48ab9b2f.chunk.js.map",
     "runtime-main.js": "/Metflix/static/js/runtime-main.8b654ff1.js",
     "runtime-main.js.map": "/Metflix/static/js/runtime-main.8b654ff1.js.map",
-    "static/js/2.ea5931c8.chunk.js": "/Metflix/static/js/2.ea5931c8.chunk.js",
-    "static/js/2.ea5931c8.chunk.js.map": "/Metflix/static/js/2.ea5931c8.chunk.js.map",
+    "static/js/2.b9e455c5.chunk.js": "/Metflix/static/js/2.b9e455c5.chunk.js",
+    "static/js/2.b9e455c5.chunk.js.map": "/Metflix/static/js/2.b9e455c5.chunk.js.map",
     "index.html": "/Metflix/index.html",
-    "static/css/main.22002109.chunk.css.map": "/Metflix/static/css/main.22002109.chunk.css.map",
-    "static/js/2.ea5931c8.chunk.js.LICENSE.txt": "/Metflix/static/js/2.ea5931c8.chunk.js.LICENSE.txt"
+    "static/css/main.bca31fcb.chunk.css.map": "/Metflix/static/css/main.bca31fcb.chunk.css.map",
+    "static/js/2.b9e455c5.chunk.js.LICENSE.txt": "/Metflix/static/js/2.b9e455c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b654ff1.js",
-    "static/js/2.ea5931c8.chunk.js",
-    "static/css/main.22002109.chunk.css",
-    "static/js/main.d3d47dc6.chunk.js"
+    "static/js/2.b9e455c5.chunk.js",
+    "static/css/main.bca31fcb.chunk.css",
+    "static/js/main.48ab9b2f.chunk.js"
   ]
 }
