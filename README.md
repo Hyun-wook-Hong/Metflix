@@ -5,6 +5,7 @@ React JS Fundamentals Course (2021 Update!!)
 ## ※ 실행 컨셉
 ![metflix 실행 컨셉](https://user-images.githubusercontent.com/61657215/116801264-1fd2cf80-ab43-11eb-9705-ffd2258a32f1.JPG)
 
+> 예제 링크: https://hyun-wook-hong.github.io/Metflix/#/
 
 ## gh-pages 설치 및 사용법
 1) 깃허브 클라우드 사용을 위한 gh-pages 설치
