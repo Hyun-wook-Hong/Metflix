@@ -17,4 +17,4 @@ React JS Fundamentals Course (2021 Update!!)
 > "predeploy": "npm run build"  → build 폴더 생성  
    
 # To-Do list
-~- Movie 컨텐츠 클릭 시 Card contents 생성하기 - created on 5/1~
+- 매일 점검 후 유지보수 필요한 사항 기록하고 실행할 것.
