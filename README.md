@@ -17,4 +17,4 @@ React JS Fundamentals Course (2021 Update!!)
 > "predeploy": "npm run build"  → build 폴더 생성  
    
 # To-Do list
-- 매일 점검 후 유지보수 필요한 사항 기록하고 실행할 것.
+- 매일 점검 후 유지보수 필요한 사항 기록하고 실행할 것. (2021.05.04 ~ )
